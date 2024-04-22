@@ -24,3 +24,9 @@ img
     width: 250px;
     
 }
+
+.imagensBolas
+{
+    display: flex;
+    justify-content: space-around;
+}
